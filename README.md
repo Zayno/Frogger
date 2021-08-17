@@ -6,7 +6,7 @@ Frogger game in 3D
 Youtube demo:
 
 
-[![Foo](ReadmeImages/YTLink.png)](https://www.youtube.com/watch?v=yLAraywh0UE)
+[![FroggerYT](ReadmeImages/YTLink.png)](https://www.youtube.com/watch?v=yLAraywh0UE)
 
 
 https://www.youtube.com/watch?v=yLAraywh0UE
